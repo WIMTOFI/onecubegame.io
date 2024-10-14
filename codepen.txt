@@ -1,0 +1,11 @@
+<div class="Frame1 w-80 pt-0.5 bg-white shadow">
+    <img class="BG relative" style="width: 324px; height: 605px;" src="https://via.placeholder.com/324x605">
+        <img class="Header w-72 h-20 absolute" style="left: 19px; top: 18px;" src="https://via.placeholder.com/286x86" />
+        <img class="Red w-48 h-48 absolute" style="left: 66px; top: 378px;" src="https://via.placeholder.com/193x190" />
+        <img class="Timer w-20 h-20 absolute" style="left: 162px; top: 302px;" src="https://via.placeholder.com/79x73" />
+        <img class="Time01 w-12 h-12 absolute" style="left: 176px; top: 313px;" src="https://via.placeholder.com/49x49" />
+        <img class="Yellow w-48 h-48 absolute" style="left: 66px; top: 109px;" src="https://via.placeholder.com/192.99998474121094x190" />
+        <img class="Btn_Play w-16 h-16 absolute" style="left: 93px; top: 303px;" src="https://via.placeholder.com/69x70" />
+        <p class="OneCube Challenge w-64 absolute text-2xl text-center text-yellow-800" style="left: 37px; top: 39px;">One Cube Challenge</p>
+    </img>
+</div>

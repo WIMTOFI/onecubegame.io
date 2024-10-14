@@ -1,0 +1,99 @@
+
+.Frame1{
+    width: 324px;
+    height: 605px;
+    position:absolute;
+    left: 100px;
+    top: 20px;
+    
+}
+Body{
+    width: 324px;
+    height: 605px;
+    background-color:black;
+}
+.Header{
+    position: absolute;
+    left: 23px; top: 18px;
+}
+.OneCubeChallenge{
+    text-shadow:2px;
+    position:fixed;
+    text-align: center;
+    left: 100px;
+    top: 20px;
+}
+#display{
+    position: absolute;
+  font-family: "Poppins", sans-serif;
+  color: #f6d8d5;
+  background-image: radial-gradient( #816300);
+  background-image: radial-gradient(rgba(236, 34, 37, 0.5) 0.0125em, transparent 0.0125em);
+  background-size: 8px 8px;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-stroke: 1px #411d00;
+  transition: 0.2s;
+  font-size: 35px;
+    text-shadow:6px;
+    position:absolute;
+    text-align: center;
+    left: 95px;
+    top: 5px;
+}
+
+.All_Cube{
+    position:absolute;
+    left: 66px;
+    top: 109px;
+    cursor: pointer;
+    opacity: 100%;
+    
+     
+}
+.All_Cube:hover{
+    outline-style:double;
+}
+.All_Cube:active{
+    outline-style:dashed;
+    transform: translatey(4px);
+}
+
+.Cube-animated {
+    animation: moveInBottom 5s ease-out;
+    animation-fill-mode: backwards;
+}
+
+
+.Btn_Play{
+    position: absolute;
+    left: 93px; top: 308px;
+    background-color: rgba(127, 255, 212, 0);
+    height: 60px;
+    cursor: pointer;
+    
+   
+}
+.Btn_Play:active{
+    transform: translatey(4px);
+      
+}
+.Btn_reset{
+    position: absolute;
+    left: 175px; top: 308px;
+    background-color: rgba(127, 255, 212, 0);
+    height: 60px;
+    cursor: pointer;
+}
+.Btn_reset:active{
+    transform: translatey(4px);
+}
+.imageBG{
+    position:absolute;
+    left: 70px;
+    top: 362px;
+    
+    height: 255;
+    opacity: 100%;
+}
+
